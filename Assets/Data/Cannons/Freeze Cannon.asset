@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 914228f03b78a1c4083ebdf5fffd3e88, type: 3}
+  m_Name: Freeze Cannon
+  m_EditorClassIdentifier: Assembly-CSharp::CannonData
+  prefab: {fileID: 3816964215831071226, guid: 646357217b9538f498dc1e436ffeea66, type: 3}
+  _type: 1
+  _projectileType: 1
+  _icon: {fileID: 21300000, guid: 09eeccdb5287e2240be83e5d5f4dfa0b, type: 3}
+  _cost: 8
+  _fireRate: 2
+  _range: 8
+  _keyCode: 50
+  _keyText: 2

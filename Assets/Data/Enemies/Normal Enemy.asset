@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19d1c63841071f0458f225b97b2c2074, type: 3}
+  m_Name: Normal Enemy
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  prefab: {fileID: 5270821419620097269, guid: cefa4ba06d46660498bd15f5b7935e6b, type: 3}
+  _type: 0
+  _hp: 5
+  _speed: 5
+  _reward: 5
+  _hitDamage: 1
